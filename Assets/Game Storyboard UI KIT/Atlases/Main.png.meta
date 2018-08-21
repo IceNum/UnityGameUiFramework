@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 1df449e1ce887cf489039d42df4f3a15
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Missing
+    21300002: Missing
+    21300004: Missing
+    21300006: Missing
+    21300008: Missing
+    21300010: Missing
+    21300012: Missing
+    21300014: Missing
+    21300016: Missing
+    21300018: Missing
+    21300020: Missing
+    21300022: wheel (Main)
+    21300024: logo (Main)
+    21300026: play (Main)
+    21300028: play_click (Main)
+    21300030: shine (Main)
+    21300032: Missing
+    21300034: btn_sns_facebook (Main)
+    21300036: next_button (Main)
+    21300038: facebook (Main)
+    21300040: menu (Main)
+    21300042: menu_click (Main)
+    21300044: facebook_click (Main)
+    21300046: exitbackground (Main)
+    21300048: yesbutton (Main)
+    21300050: Missing
+    21300052: yesbutton_hover (Main)
+    21300054: Missing
+    21300056: closebutton (Main)
+    21300058: closebutton_hover (Main)
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.4949187, y: 0.49026638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5192926, y: 0.56233764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.30341882, y: 0.5259939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.49594814, y: 0.47404844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.4878444, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48066297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48768473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.486618, y: 0.3519553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.5014045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.50647247, y: 0.4271255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wheel (Main)
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 494
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: logo (Main)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 424
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5035377, y: 0.49774775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: play (Main)
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1
+        width: 298
+        height: 185
+      alignment: 9
+      pivot: {x: 0.48657718, y: 0.5243243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: play_click (Main)
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 671
+        width: 297
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5243243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shine (Main)
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1
+        width: 200
+        height: 668
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.51657456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_sns_facebook (Main)
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 718
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: next_button (Main)
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1
+        width: 171
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5964912, y: 0.502008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: facebook (Main)
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 188
+        width: 243
+        height: 246
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu (Main)
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1
+        width: 243
+        height: 246
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_click (Main)
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 499
+        width: 243
+        height: 245
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.4979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: facebook_click (Main)
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 249
+        width: 243
+        height: 245
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.4979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: exitbackground (Main)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 908
+        height: 491
+      alignment: 9
+      pivot: {x: 0.50220263, y: 0.5071283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yesbutton (Main)
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 252
+        width: 244
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yesbutton_hover (Main)
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 671
+        width: 244
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.50751877, y: 0.4548872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: closebutton (Main)
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 671
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50612247, y: 0.4979757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: closebutton_hover (Main)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 718
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50612247, y: 0.4979757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 1c38d0130274ae84588a9db4b04be89c
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Missing
+    21300002: Missing
+    21300004: Score&TopScore_button_onpress (Game)
+    21300006: Missing
+    21300008: Setting_button_onclick (Game)
+    21300010: Score&TopScore_button_onclick (Game)
+    21300012: Missing
+    21300014: Score&TopScore_button (Game)
+    21300016: Missing
+    21300018: Missing
+    21300020: Missing
+    21300022: Missing
+    21300024: Missing
+    21300026: Missing
+    21300028: Missing
+    21300030: Missing
+    21300032: Missing
+    21300034: wheel (Game)
+    21300036: Try_Again (Game)
+    21300038: you_win (Game)
+    21300040: Try_Again_Onpress (Game)
+    21300042: star_big_center (Game)
+    21300044: Score (Game)
+    21300046: star_big_center_bg (Game)
+    21300048: Home (Game)
+    21300050: Home_onpress (Game)
+    21300052: Pause_Text (Game)
+    21300054: Missing
+    21300056: Missing
+    21300058: Missing
+    21300060: Missing
+    21300062: Missing
+    21300064: win-star (Game)
+    21300066: Missing
+    21300068: stage (Game)
+    21300070: stage_hover (Game)
+    21300072: back_hover (Game)
+    21300074: back (Game)
+    21300076: cont_hover (Game)
+    21300078: cont (Game)
+    21300080: miniDialog (Game)
+    21300082: opps (Game)
+    21300084: Missing
+    21300086: closebutton (Game)
+    21300088: closebutton_hover (Game)
+    21300090: pause_hover (Game)
+    21300092: pause (Game)
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Score&TopScore_button_onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 402
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: 0.53072625, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.52577317, y: 0.4742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Setting_button_onclick (Game)
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 819
+        width: 194
+        height: 194
+      alignment: 9
+      pivot: {x: 0.52577317, y: 0.4742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Score&TopScore_button_onclick (Game)
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 270
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: 0.53072625, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.5493562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Score&TopScore_button (Game)
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 116
+        width: 179
+        height: 82
+      alignment: 9
+      pivot: {x: 0.53072625, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.52577317, y: 0.4742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50214595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wheel (Game)
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 354
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Try_Again (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 570
+        width: 283
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5017668, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: you_win (Game)
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 539
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5009276, y: 0.42477876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Try_Again_Onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 230
+        width: 259
+        height: 263
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.46007603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star_big_center (Game)
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 495
+        width: 160
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Score (Game)
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1
+        width: 301
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4950166, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: star_big_center_bg (Game)
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 486
+        width: 143
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4965035, y: 0.48120302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Home (Game)
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 116
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.4964539, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Home_onpress (Game)
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1
+        width: 267
+        height: 267
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.4681648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pause_Text (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 820
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42731276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5153509, y: 0.49754903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win-star (Game)
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 495
+        width: 238
+        height: 240
+      alignment: 9
+      pivot: {x: 0.49159664, y: 0.50416666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.48666668, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stage (Game)
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 651
+        width: 113
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.49565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stage_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1
+        width: 107
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5140187, y: 0.45192307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: back_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 819
+        width: 144
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: back (Game)
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 270
+        width: 144
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cont_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 402
+        width: 244
+        height: 81
+      alignment: 9
+      pivot: {x: 0.48360655, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cont (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 856
+        width: 244
+        height: 81
+      alignment: 9
+      pivot: {x: 0.48770493, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: miniDialog (Game)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 531
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5216572, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: opps (Game)
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 737
+        width: 161
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5031056, y: 0.56363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5153509, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: closebutton (Game)
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 570
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50612247, y: 0.4979757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: closebutton_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 71
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: 0.50612247, y: 0.4979757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pause_hover (Game)
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 737
+        width: 143
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4965035, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pause (Game)
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 200
+        width: 143
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4965035, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

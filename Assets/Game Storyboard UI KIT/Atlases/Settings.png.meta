@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 25cf0c5f6bdb09445810392a30f0fcf8
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: redbox (Settings)
+    21300002: reset (Settings)
+    21300004: aboutus (Settings)
+    21300006: aboutus_click (Settings)
+    21300008: reset_click (Settings)
+    21300010: Missing
+    21300012: Missing
+    21300014: option (Settings)
+    21300016: Home (Settings)
+    21300018: Music_On (Settings)
+    21300020: Home_onpress (Settings)
+    21300022: Sound_on (Settings)
+    21300024: Missing
+    21300026: Missing
+    21300028: on-off (Settings)
+    21300030: back_on-off (Settings)
+    21300032: Sound_Off (Settings)
+    21300034: Music_Off (Settings)
+    21300036: dialog (Settings)
+    21300038: ques (Settings)
+    21300040: Missing
+    21300042: no (Settings)
+    21300044: yes (Settings)
+    21300046: yes_hover (Settings)
+    21300048: no_hover (Settings)
+    21300050: on-off-hover (Settings)
+    21300052: successfully (Settings)
+    21300054: ok_hover (Settings)
+    21300056: ok (Settings)
+    21300058: Missing
+    21300060: wheel (Settings)
+    21300062: reset_word (Settings)
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redbox (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1
+        width: 322
+        height: 502
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: reset (Settings)
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 597
+        width: 367
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4918256, y: 0.50409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: aboutus (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 618
+        width: 367
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4918256, y: 0.50409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: aboutus_click (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 193
+        width: 367
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4918256, y: 0.5081301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: reset_click (Settings)
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 505
+        width: 366
+        height: 122
+      alignment: 9
+      pivot: {x: 0.48770493, y: 0.50409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: option (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 93
+        width: 298
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5100671, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Home (Settings)
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 721
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.4964539, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Music_On (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 195
+        height: 235
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.5148936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Home_onpress (Settings)
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 629
+        width: 267
+        height: 267
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.4681648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sound_on (Settings)
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 318
+        width: 217
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49769586, y: 0.5460123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.49668875, y: 0.5231788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.49668875, y: 0.5231788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: on-off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 505
+        width: 385
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5012987, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: back_on-off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1
+        width: 548
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Sound_Off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 93
+        width: 244
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.48039216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Music_Off (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 505
+        width: 244
+        height: 235
+      alignment: 9
+      pivot: {x: 0.50409836, y: 0.5148936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 562
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ques (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 117
+        width: 439
+        height: 74
+      alignment: 9
+      pivot: {x: 0.51025057, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5148248, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 629
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yes (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 299
+        width: 174
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: yes_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 742
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: 0.48850575, y: 0.5308642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 898
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: 0.48850575, y: 0.5308642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: on-off-hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1
+        width: 385
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5012987, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: successfully (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 569
+        width: 452
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5154867, y: 0.63829786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ok_hover (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1
+        width: 174
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ok (Settings)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 179
+        width: 174
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wheel (Settings)
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 742
+        width: 119
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: reset_word (Settings)
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 318
+        width: 251
+        height: 39
+      alignment: 9
+      pivot: {x: 0.52191234, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
